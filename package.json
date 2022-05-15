@@ -1,0 +1,58 @@
+{
+    "name": "web-systems",
+    "publisher": "wsa",
+    "displayName": "Web Systems Extension Pack",
+    "description": "Extensions required for developing web systems",
+    "version": "0.0.1",
+    "icon": "logo.png",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "EditorConfig.EditorConfig",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "denoland.vscode-deno",
+        "eamodio.gitlens",
+        "wix.vscode-import-cost",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "yzhang.markdown-all-in-one",
+        "christian-kohler.path-intellisense",
+        "aaron-bond.better-comments",
+        "pnp.polacode",
+        "streetsidesoftware.code-spell-checker"
+    ],
+    "bugs": {
+        "url": "https://github.com/websysarch/web-sys-vscode-extension-pack/issues"
+    },
+    "homepage": "https://github.com/websysarch/web-sys-vscode-extension-pack#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/websysarch/web-sys-vscode-extension-pack.git"
+    },
+    "keywords": [
+        "Web Systems",
+        "Web Development",
+        "Javascript",
+        "Typescript",
+        "Deno",
+        "HTML",
+        "CSS",
+        "Prettier",
+        "EditorConfig",
+        "Eslint",
+        "Linting",
+        "Git",
+        "Gitlens",
+        "Import Cost",
+        "Auto Close",
+        "Auto Rename",
+        "Markdown",
+        "Polacode",
+        "Spell Checker"
+    ]
+}
